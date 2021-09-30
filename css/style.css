@@ -160,6 +160,11 @@ nav a {
     border-radius: 50px;
     background-color: green;
 }
+.number{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
 
 /* right nav section */
 .nav-rx {
