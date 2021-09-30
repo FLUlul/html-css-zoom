@@ -155,6 +155,11 @@ nav a {
     align-items: center;
     margin: 0 20px;  
 }
+.fa-desktop {
+    color: white;
+    border-radius: 50px;
+    background-color: green;
+}
 
 /* right nav section */
 .nav-rx {
