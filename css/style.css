@@ -6,19 +6,20 @@
 main {
     background-color: black;
     height: calc(100vh - 100px);
-/*     width: 100vw; */
+    /* debug */
+    /* width: 100vw; */
 }
 
 nav {
     background-color: rgb(31, 31, 31);
     height: 100px;
-/*     width: 100vw; */
     display: flex;
     justify-content: space-between;
     align-items: center;
 
     /* debug */
-/*     border: solid grey; */
+    /*border: solid grey; */
+    /* width: 100vw; */
 }
 
 /* view type buttons */
@@ -90,7 +91,8 @@ nav {
 }
 .cam {
     min-width: 250px;
-    max-width: 300px;
+/*     max-width: 300px; */ /* right measure with live server */
+    max-width: 10%; /* right measure  */
     margin: 5px 5px;
     position: relative;
 }
